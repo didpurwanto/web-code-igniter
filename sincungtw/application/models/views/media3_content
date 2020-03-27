@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+
+<html lang="">
+<head>
+    <title>心忠－印尼MUI在臺代表處</title>
+    <meta charset="utf-8">
+    <meta name="Description" content="MUI清真認證係涵蓋穆斯林市場規模最大的清真認證">
+    <meta name="Description" content="更是進軍印尼近3億人口穆斯林市場的必備條件">
+    <meta name="Description" content="心忠管理顧問公司為印尼MUI清真認證機構在臺代表處">
+    <meta name="Description" content="可協助臺灣食品">
+    <meta name="Description" content="美妝">
+    <meta name="Description" content="生技及餐飲業者直接在臺取得國際級清真認證">
+    <meta name="Description" content="並可提供專業國際行銷服務">
+    <meta name="Description" content="是進軍印尼市場的最佳平台">
+    <meta name="keywords" content="印尼, MUI, 心忠, 清真認證, Halal certificate, 穆斯林市場, Halal, Muslim, halal food">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel='shortcut icon' type='image/x-icon' href='http://localhost/sincungtw-old/images/ico.png' />
+
+    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/favicon/favicon-16x16.png">
+
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="<?php echo base_url("public/timeline/")?>/css/reset.css"> 
+    <link rel="stylesheet" href="<?php echo base_url("public/timeline/")?>/css/style.css"> 
+    <link rel="stylesheet" href="<?php echo base_url("public/timeline/")?>/css/demo.css"> 
+</head>
+<body>
+    <section class="cd-timeline js-cd-timeline">
+    <div class="cd-timeline__container">
+    <div class="cd-timeline__block js-cd-block">
+    <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
+    <img src="<?php echo base_url("public/timeline/")?>/img/cd-icon-picture.svg" alt="Picture">
+    </div> 
+    <div class="cd-timeline__content js-cd-content">
+    <h2>Title of section 1</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+    <a href="#0" class="cd-timeline__read-more">Read more</a>
+    <span class="cd-timeline__date"><font color="white">2018年07月26-27日</font></span>
+    </div>
+
+
+    </div> 
+    <div class="cd-timeline__block js-cd-block">
+    <div class="cd-timeline__img cd-timeline__img--movie js-cd-img">
+    <img src="<?php echo base_url("public/timeline/")?>/img/cd-icon-movie.svg" alt="Movie">
+    </div> 
+    <div class="cd-timeline__content js-cd-content">
+    <h2>Title of section 2</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?</p>
+    <a href="#0" class="cd-timeline__read-more">Read more</a>
+    <span class="cd-timeline__date">Jan 18</span>
+    </div> 
+    </div> 
+    <div class="cd-timeline__block js-cd-block">
+    <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
+    <img src="<?php echo base_url("public/timeline/")?>/img/cd-icon-picture.svg" alt="Picture">
+    </div> 
+    <div class="cd-timeline__content js-cd-content">
+    <h2>Title of section 3</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam dolore possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>
+    <a href="#0" class="cd-timeline__read-more">Read more</a>
+    <span class="cd-timeline__date">Jan 24</span>
+    </div> 
+    </div> 
+    <div class="cd-timeline__block js-cd-block">
+    <div class="cd-timeline__img cd-timeline__img--location js-cd-img">
+    <img src="<?php echo base_url("public/timeline/")?>/img/cd-icon-location.svg" alt="Location">
+    </div> 
+    <div class="cd-timeline__content js-cd-content">
+    <h2>Title of section 4</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+    <a href="#0" class="cd-timeline__read-more">Read more</a>
+    <span class="cd-timeline__date">Feb 14</span>
+    </div> 
+    </div> 
+    <div class="cd-timeline__block js-cd-block">
+    <div class="cd-timeline__img cd-timeline__img--location js-cd-img">
+    <img src="<?php echo base_url("public/timeline/")?>/img/cd-icon-location.svg" alt="Location">
+    </div> 
+    <div class="cd-timeline__content js-cd-content">
+    <h2>Title of section 5</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum.</p>
+    <a href="#0" class="cd-timeline__read-more">Read more</a>
+    <span class="cd-timeline__date">Feb 18</span>
+    </div> 
+    </div> 
+    <div class="cd-timeline__block js-cd-block">
+    <div class="cd-timeline__img cd-timeline__img--movie js-cd-img">
+    <img src="<?php echo base_url("public/timeline/")?>/img/cd-icon-movie.svg" alt="Movie">
+    </div> 
+    <div class="cd-timeline__content js-cd-content">
+    <h2>Final Section</h2>
+    <p>This is the content of the last section</p>
+    <span class="cd-timeline__date">Feb 26</span>
+    </div> 
+    </div> 
+    </div>
+    </section> 
+    <div class="demo-avd demo-avd--light js-demo-avd" style="bottom: 30px; left: 30px; background-color: #303e49; top: auto;"></div>
+
+
+
+
+
+<script src="<?php echo base_url("public/timeline/")?>/js/main.js"></script> 
+<script src="<?php echo base_url("public/timeline/")?>/../../assets/js/demo-avd.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-48014931-1', 'codyhouse.co');
+    ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview');
+</script>
+
+
+</body>
+</html>
